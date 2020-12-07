@@ -1,0 +1,10 @@
+.radar-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background: #ebebeb;
+}
+
+.radar-polygon:hover {
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+}
